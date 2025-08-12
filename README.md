@@ -1,6 +1,6 @@
 # Amigo Secreto Challenge
 
-Este proyecto es la solución deL Challenge de Alura
+Este proyecto es la solución del Challenge de Alura
 
 ## Características
 
