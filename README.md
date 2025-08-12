@@ -14,7 +14,7 @@ Este proyecto es la solución del Challenge de Alura
 - **CSS**
 - **JS**
 
-## Uso
+## Descargarlo
 
 1. Clona este repositorio:
    ```bash
@@ -29,3 +29,17 @@ Este proyecto es la solución del Challenge de Alura
    index.html
    ```
 4. Y listo! Ya lo tienes en tu navegador
+
+## Uso
+
+1. Interfaz inicial
+   ![Interfaz inicial](./img/inicio.png)
+
+2. Agregar un participante
+   ![Agregar](./img/agregarAmigo.png)
+
+3. Sortear de la lista de participantes
+   ![Sortear](./img/lista.png)
+
+4. Resultado
+   ![Resultado](./img/resultado.png)
